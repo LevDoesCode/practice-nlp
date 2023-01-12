@@ -10,3 +10,10 @@ NLTK requires Python 3.7, 3.8, 3.9, 3.10 or 3.11.
 
 [Homepage](https://pypi.org/project/nltk/)
 
+We'll also need **matplotlib**
+
+`pip install matplotlib`
+
+and **numpy**
+
+`pip install numpy`
