@@ -8,5 +8,5 @@
 
 NLTK requires Python 3.7, 3.8, 3.9, 3.10 or 3.11.
 
-[Homepage]([Homepage](https://pypi.org/project/nltk/))
+[Homepage](https://pypi.org/project/nltk/)
 
