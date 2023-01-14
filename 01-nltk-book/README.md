@@ -17,3 +17,11 @@ We'll also need **matplotlib**
 and **numpy**
 
 `pip install numpy`
+
+and pandas
+
+`pip install pandas`
+
+and scikit-learn
+
+`pip install scikit-learn`
